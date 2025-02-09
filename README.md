@@ -32,7 +32,6 @@ pip install -e .
 git clone https://github.com/Port0r/OAI-TTS-Server-for-F5-TTS.git
 cd ..
 cd OAI-TTS-Server-for-F5-TTS
-pip install -r requirements.txt
 ```
 Move the demo voice files to the parent directory:
 ```
