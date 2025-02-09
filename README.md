@@ -38,6 +38,12 @@ Move the demo voice files to the parent directory:
 ```
 mv Her.* ..
 ```
+
+## Start server
+```
+python server.py
+```
+
 ## Create your own voices
 
 The .toml file contains parameters for F5 TTS regarding this voice, like the name of corresonding .wav file and the transscript. This demo voice was created with the movie Her in mind, where Scarlett Johansson is the voice of an AI.
