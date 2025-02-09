@@ -3,7 +3,7 @@ A simple OpenAI TTS / STT compatible voice server altered to work with F5 TTS.
 
 I use this as interface between Open-WebUI and F5-TTS.
 
-## Usage
+## Install
 I used miniconda to set up the virtual environment:
 ```
 conda create -n f5-tts python=3.10
