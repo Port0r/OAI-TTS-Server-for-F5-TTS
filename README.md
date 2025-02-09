@@ -29,8 +29,8 @@ cd F5-TTS
 # git submodule update --init --recursive  # (optional, if need bigvgan)
 pip install -e .
 
-git clone https://github.com/Port0r/OAI-TTS-Server-for-F5-TTS.git
 cd ..
+git clone https://github.com/Port0r/OAI-TTS-Server-for-F5-TTS.git
 cd OAI-TTS-Server-for-F5-TTS
 ```
 Move the demo voice files to the parent directory:
