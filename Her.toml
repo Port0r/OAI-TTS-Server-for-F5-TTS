@@ -1,0 +1,11 @@
+# F5-TTS | E2-TTS
+model = "F5-TTS"
+ref_audio = "../SexyScarlett.wav"
+# If an empty "", transcribes the reference audio automatically.
+ref_text = "This son of ours is stubborn and rebellious."
+gen_text = ""
+# File with text to generate. Ignores the text above.
+gen_file = "../textfile.txt"
+remove_silence = false
+output_dir = "../"
+output_file = "output.wav"

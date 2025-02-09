@@ -15,7 +15,7 @@ fi
 if [ -z "$2" ]
 then
     echo "No voice name supplied."
-    VOICE='SexyScarlett'
+    VOICE='Her'
 else
     VOICE="$2"
 fi
