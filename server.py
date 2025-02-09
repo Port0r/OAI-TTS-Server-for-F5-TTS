@@ -1,7 +1,5 @@
 
 from flask import Flask, request, send_file, jsonify
-import torch
-from transformers import pipeline
 import os
 import json
 import base64
